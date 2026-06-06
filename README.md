@@ -1,6 +1,6 @@
 # 👋 Victor Langa
 
-Desenvolvedor Full Stack focado em criar aplicações web modernas, sistemas de gestão e plataformas financeiras.
+Desenvolvedor Full Stack focado em criar aplicações web modernas.
 
 ### 🛠️ Tecnologias
 
