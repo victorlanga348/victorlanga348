@@ -59,16 +59,6 @@ Tenho especial interesse em **arquitetura backend**, **bases de dados**, **exper
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=victorlanga348&show_icons=true&theme=tokyonight&count_private=true"/>
-
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorlanga348&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 🚀 Filosofia
 
 > *"A tecnologia tem mais valor quando resolve problemas reais de forma simples, eficiente e escalável."*
