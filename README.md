@@ -1,31 +1,79 @@
-# 👋 Victor Langa
+# Olá 👋, eu sou Victor Langa
 
-Desenvolvedor Full Stack focado em criar aplicações web modernas.
+🚀 **Desenvolvedor Full Stack | React, Node.js e PostgreSQL**
+🇲🇿 Moçambique
 
-### 🛠️ Tecnologias
+Crio **aplicações web modernas**, **plataformas financeiras** e **sistemas de gestão** focados em resolver problemas reais.
 
-React • Next.js • TypeScript • Node.js • PostgreSQL • Prisma
+Tenho especial interesse em **arquitetura backend**, **bases de dados**, **experiência do utilizador**, **automação** e **soluções escaláveis**.
 
-### 🚀 Projetos
+---
 
-* Aviarios — Gestão de aviários e controlo financeiro
-* Financely — Gestão financeira
-* Mpesa SmartInfo — Informações e ferramentas para M-Pesa
-* Chat em Tempo Real — Comunicação em tempo real
+## 🌐 Onde me encontrar
 
-### 🌱 Atualmente
+<p align="left">
+  <a href="https://github.com/victorlanga348">
+    <img src="https://img.shields.io/badge/GitHub-VICTORLANGA348-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
-Aprofundando arquitetura backend, PostgreSQL e sistemas escaláveis.
+---
 
-<div style="display: inline_block">
-  <h1>Tecnologias Usadas</h1>
-  <img align="center" alt="Victor-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Victor-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Victor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Victor-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Victor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Victor-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Victor-Postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-</div>
+## 🧠 O que faço
 
+* 🏗️ Aplicações Web Full Stack
+* ⚡ Desenvolvimento com React e Next.js
+* 🧩 APIs REST com Node.js e Express
+* 🔐 Autenticação e segurança com JWT
+* 💳 Sistemas financeiros e gestão de transações
+* 📊 Dashboards e sistemas de gestão
+* 🗺️ Aplicações com geolocalização
+* 🤖 Desenvolvimento assistido por Inteligência Artificial
+
+---
+
+## 🛠️ Tecnologias
+
+### Frontend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge\&logo=javascript\&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge\&logo=tailwindcss)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens)
+
+### Ferramentas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=victorlanga348&show_icons=true&theme=tokyonight&count_private=true"/>
+
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorlanga348&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🚀 Filosofia
+
+> *"A tecnologia tem mais valor quando resolve problemas reais de forma simples, eficiente e escalável."*
+
+---
+
+⭐ Se gostou de algum projeto, considere deixar uma estrela.
+🤝 Sempre aberto a aprender, colaborar e construir novas ideias.
