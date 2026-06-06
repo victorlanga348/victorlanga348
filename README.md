@@ -1,11 +1,11 @@
 # Olá 👋, eu sou Victor Langa
 
-🚀 **Desenvolvedor Full Stack | React, Node.js e PostgreSQL**
+🚀 **Desenvolvedor Full Stack Júnior | React, Node.js e PostgreSQL**
 🇲🇿 Moçambique
 
 Crio **aplicações web modernas**, **plataformas financeiras** e **sistemas de gestão** focados em resolver problemas reais.
 
-Tenho especial interesse em **arquitetura backend**, **bases de dados**, **experiência do utilizador**, **automação** e **soluções escaláveis**.
+Tenho especial interesse em **arquitetura backend**, **bases de dados**, **automação** e **soluções escaláveis**.
 
 ---
 
