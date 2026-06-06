@@ -16,10 +16,3 @@ React • Next.js • TypeScript • Node.js • PostgreSQL • Prisma
 ### 🌱 Atualmente
 
 Aprofundando arquitetura backend, PostgreSQL e sistemas escaláveis.
-
-### 📫 GitHub
-
-* GitHub: [@victorlanga348](https://github.com/victorlanga348)
-* Email: victorlanga720@gmail.com
-* Whatsapp: [//wa.me/258857451534](https://wa.me/258857451534)
-* Instagram: https://www.instagram.com/_victor_langa?igsh=MTB6ZHhlZTVkM3c4aw%3D%3D&utm_source=qr
